@@ -1,0 +1,14 @@
+C:\Users\alica\source\repos\Tarla\Tarla\bin\Debug\netcoreapp3.1\Tarla.exe
+C:\Users\alica\source\repos\Tarla\Tarla\bin\Debug\netcoreapp3.1\Tarla.deps.json
+C:\Users\alica\source\repos\Tarla\Tarla\bin\Debug\netcoreapp3.1\Tarla.runtimeconfig.json
+C:\Users\alica\source\repos\Tarla\Tarla\bin\Debug\netcoreapp3.1\Tarla.runtimeconfig.dev.json
+C:\Users\alica\source\repos\Tarla\Tarla\bin\Debug\netcoreapp3.1\Tarla.dll
+C:\Users\alica\source\repos\Tarla\Tarla\bin\Debug\netcoreapp3.1\Tarla.pdb
+C:\Users\alica\source\repos\Tarla\Tarla\obj\Debug\netcoreapp3.1\Tarla.csproj.AssemblyReference.cache
+C:\Users\alica\source\repos\Tarla\Tarla\obj\Debug\netcoreapp3.1\Tarla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alica\source\repos\Tarla\Tarla\obj\Debug\netcoreapp3.1\Tarla.AssemblyInfoInputs.cache
+C:\Users\alica\source\repos\Tarla\Tarla\obj\Debug\netcoreapp3.1\Tarla.AssemblyInfo.cs
+C:\Users\alica\source\repos\Tarla\Tarla\obj\Debug\netcoreapp3.1\Tarla.csproj.CoreCompileInputs.cache
+C:\Users\alica\source\repos\Tarla\Tarla\obj\Debug\netcoreapp3.1\Tarla.dll
+C:\Users\alica\source\repos\Tarla\Tarla\obj\Debug\netcoreapp3.1\Tarla.pdb
+C:\Users\alica\source\repos\Tarla\Tarla\obj\Debug\netcoreapp3.1\Tarla.genruntimeconfig.cache
